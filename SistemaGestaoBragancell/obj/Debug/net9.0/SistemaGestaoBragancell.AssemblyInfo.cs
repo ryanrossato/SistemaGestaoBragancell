@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaGestaoBragancell")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae2719a603d87d9caa249ac5cb79e8c71abafc81")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaGestaoBragancell")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaGestaoBragancell")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
